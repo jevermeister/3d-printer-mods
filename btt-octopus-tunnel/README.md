@@ -6,6 +6,7 @@ You will need
 * 2x M3x20 BHCS (to mount the 5015 on the tunnel)
 
 I did not try this tunnel yet with attached connectors however all of them should be still accessible.
-If you operate your 5015 fan with 12V or PWM it, it should be nearly inaudible.
+
+If you care about noise, you should operate your 5015 fan with 12V or use PWM to keep it silent.
 
 No pictures for now as my current prints are awful.
