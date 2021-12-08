@@ -13,7 +13,10 @@ I did not try this tunnel yet with attached connectors however all of them shoul
 
 If you care about noise, you should operate your 5015 fan with 12V or use PWM to keep it silent.
 
-No pictures for now as my current prints are awful.
+No photos for now as my current prints are awful, you have to stick to the CAD screenshots.
+
+![CAD View front](./images/cad_1.png "CAD view front")
+![CAD View back](./images/cad_2.png "CAD view front")
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
