@@ -1,8 +1,11 @@
 # BTT filament sensor backplate with ears
 
 This backplate provides 2x M3 holes to mount the filament sensor whereever you want to.
-In my case, at the back right extrusion of my Voron 0.1
+
+In my case, at the back right extrusion of my Voron 0.1.
+
 I printed it in eSUN ABS+ with 40% infill so with PETG or PLA you may have to scale it a bit.
+
 
 ![Top view](./images/sensor_top.jpg "Top view")
 ![Sensor and backplate](./images/sensor_backplate.jpg "Sensor and backplate")
