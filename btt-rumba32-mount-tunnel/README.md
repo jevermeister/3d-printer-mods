@@ -2,10 +2,10 @@
 You will need
 
 * 4x M3 Brass heatstake inserts - short M3x5x4 (2x to mount the 5015 fan and 2x to mount the cooling tunnel itself)
-* 2x M3x12 BHCS (to mount the tunnel on the DIN mount)
+* 2x M3x12 BHCS (to mount the tunnel on the backplate)
 * 2x M3x20 BHCS (to mount the 5015 on the tunnel)
-* 4x M3x8 BHCS (to mount the Rumba32 on the DIN mount)
-* 4x M4x10 BHCS (to mount the DIN rail SSR clip to the DIN mount)
+* 4x M3x8 BHCS (to mount the Rumba32 on the backplate)
+* 4x M4x10 BHCS (to mount the DIN rail SSR clip to the backplate)
 * 1x DIN rail SSR clamp which you can get on e.g. AliExpress
 
 It prints without supports and of course please put the flat side on the board.
@@ -14,6 +14,8 @@ Be gentle with the insets and the M3x20 screws, there is not much plastic behind
 All 4 holes in the tunnel are for heatstake inserts.
 
 If you care about noise, you should operate your 5015 fan with 12V or use PWM to keep it silent.
+
+The backplate is based on Walter Layher's Octopus DIN mount https://www.thingiverse.com/thing:4929891/
 
 ![CAD View front](./images/cad_1.png "CAD view front")
 ![CAD View back](./images/cad_2.png "CAD view front")
