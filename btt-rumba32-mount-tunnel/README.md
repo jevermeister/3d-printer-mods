@@ -6,6 +6,7 @@ You will need
 * 2x M3x20 BHCS (to mount the 5015 on the tunnel)
 * 4x M3x8 BHCS (to mount the Rumba32 on the DIN mount)
 * 4x M4x10 BHCS (to mount the DIN rail SSR clip to the DIN mount)
+* 1x DIN rail SSR clamp which you can get on e.g. AliExpress
 
 It prints without supports and of course please put the flat side on the board.
 I used PETG, 25% cubic infill and it's pretty difficult to bend it.
