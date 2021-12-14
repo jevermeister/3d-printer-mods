@@ -1,4 +1,4 @@
-# BTT Rumba32 5015 Cooling Tunnel 
+# BTT Rumba32 DIN Mount and 5015 Cooling Tunnel 
 You will need
 
 * 4x M3 Brass heatstake inserts - short M3x5x4 (2x to mount the 5015 fan and 2x to mount the cooling tunnel itself)
