@@ -22,10 +22,10 @@ However that means it won't fit the regular panels if you don't also adapt the h
 ![CAD RR view](./images/rr_nylon_blend.png "CAD RR view")
 
 
-[![GPLv3][[gpl-v3-shield]]][gpl-v3]
+[![GPLv3 License][gpl-v3-shield]][gpl-v3]
 
-This work is licensed under a
-[GPLv3 License][gpl-v3].
+This work is licensed under the
+[GPLv3 License][gpl-v3] license.
 
 [gpl-v3]: https://www.gnu.org/licenses/gpl-3.0.txt
-[gpl-v3-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[gpl-v3-shield]: https://img.shields.io/badge/License-GPLv3-lightgrey.svg
