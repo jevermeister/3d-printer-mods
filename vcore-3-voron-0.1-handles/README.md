@@ -10,10 +10,10 @@ As I don't own an enclosure yet, I used the official RR CAD data so lets hope th
 
 ![Door Handle RR](./images/handles_custom.jpg "Door Handle RR")
 
-[![GPLv3][[gpl-v3-shield]]][gpl-v3]
+[![GPLv3 License][gpl-v3-shield]][gpl-v3]
 
 This work is licensed under the
 [GPLv3 License][gpl-v3] license.
 
 [gpl-v3]: https://www.gnu.org/licenses/gpl-3.0.txt
-[gpl-v3-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[gpl-v3-shield]: https://img.shields.io/badge/License-GPLv3-lightgrey.svg
