@@ -1,5 +1,9 @@
 # Voron 0.1 handles compatible with RatRig V-Core 3 Enclosure
-These are scaled Voron 0.1 handles where the magnets have been replaced with holes for the regular M5 screws with are also being used for the rest of the build and the stock enclosure Nylon handles.
+
+These are mostly enlarged Voron 0.1 handles.
+I replaced the magnets with holes for the regular M5 screws which are used throughout the build and also made the ends a bit thicker.
+
+Kudos to the Voron team for such a great design ( https://github.com/VoronDesign/Voron-0/tree/Voron0.1/ )
 
 * 2x M5x20 head cap crews
 
