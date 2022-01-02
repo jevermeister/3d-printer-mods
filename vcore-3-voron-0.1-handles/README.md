@@ -12,9 +12,6 @@ I printed them with 40% infill and it should work without a brim as the model do
 The handles are using the same hole distance and size than the nylon handles RR ships with the enclosure.
 As I don't own an enclosure yet, I used the official RR CAD data so lets hope that it matches.
 
-![Door Handle Side](./images/handles_custom.jpg "Door Handle Side")
-![Door Handle Top view](./images/handles_custom_top.jpg "Door Handle Top view")
-
 [![GPLv3 License][gpl-v3-shield]][gpl-v3]
 
 This work is licensed under the
@@ -22,3 +19,8 @@ This work is licensed under the
 
 [gpl-v3]: https://www.gnu.org/licenses/gpl-3.0.txt
 [gpl-v3-shield]: https://img.shields.io/badge/License-GPLv3-lightgrey.svg
+
+![Door Handle Side](./images/handles_custom.jpg "Door Handle Side")
+![Door Handle Top view](./images/handles_custom_top.jpg "Door Handle Top view")
+
+
