@@ -1,7 +1,7 @@
 # V-Core 3 rear Z arm 5x Wago 221-415 mount and drag chain mount
 ![Warning](https://upload.wikimedia.org/wikipedia/commons/2/24/Warning_icon.svg "Warning")
 
-*** TLDR; UNPLUG YOUR PRINTER BEFORE DOING ANYTHING ON MAINS VOLTAGE. OTHERWISE THERE IS A 50% CHANCE YOU WILL GET SHOCKED. ***
+***TLDR; UNPLUG YOUR PRINTER BEFORE DOING ANYTHING ON MAINS VOLTAGE. OTHERWISE THERE IS A 50% CHANCE YOU WILL GET SHOCKED.***
 * Even if your printer is switched off, it only may have switched neutral which means you still have a hot phase even if DC-powered items like the printer board or RPI are definitely off. 
 *You never know without measuring if it is safe to work on mains powered stuff in your printer and it is way faster to pull the power cord instead of measuring using e.g. a DUSPOL.*
 
@@ -25,8 +25,8 @@ This work is licensed under the
 [gpl-v3]: https://www.gnu.org/licenses/gpl-3.0.txt
 [gpl-v3-shield]: https://img.shields.io/badge/License-GPLv3-lightgrey.svg
 
-![CAD Front View](./images/cad.png "CAD Front View")
-![CAD Side View](./images/cad.png "CAD Side View")
-![CAD Side View 2](./images/cad.png "CAD Side View 2")
+![CAD Front View](./images/cad_frontview.png "CAD Front View")
+![CAD Side View](./images/cad_sideview.png "CAD Side View")
+![CAD Side View 2](./images/cad_sideview2.png "CAD Side View 2")
 ![Side view](./images/sideview.jpg "Sideview")
 ![Front view](./images/frontview.jpg "Frontview")
