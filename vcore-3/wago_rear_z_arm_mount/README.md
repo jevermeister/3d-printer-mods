@@ -1,4 +1,4 @@
-# V-Core 3 rear Z arm 5x Wago 221-415 mount and drag chain mount
+## V-Core 3 rear Z arm 5x Wago 221-415 mount and drag chain mount
 ![Warning](https://upload.wikimedia.org/wikipedia/commons/2/24/Warning_icon.svg "Warning")
 
 ***TLDR; UNPLUG YOUR PRINTER BEFORE DOING ANYTHING ON MAINS VOLTAGE. OTHERWISE THERE IS A 50% CHANCE YOU WILL GET SHOCKED.***
@@ -6,16 +6,24 @@
 *You never know without measuring if it is safe to work on mains powered stuff in your printer and it is way faster to pull the power cord instead of measuring using e.g. a DUSPOL.*
 
 The wago mounts are based on the Voron V2 / 2020 mounts by Boingomw which you can find at https://github.com/boingomw/VoronUsers/tree/master/printer_mods/Boingomw/Wago_mount
+
 The drag chain mount is based on the one by jouz which you can find at https://www.thingiverse.com/thing:4961003
 
-The drag chain mount holes are for a IGUS 05.10.038.0 / connection set 050.10.12.A1.
-You will need to modify this for different drag chains. Also you will need 
-* 2x M3 Brass heatstake inserts - short M3x5x4
+## Notes and required items
+The drag chain mount holes are M3 heat inserts, same for the holes to mount the wago holder on the drag chain mount.
 
+The drag chain holes are matching a IGUS 05.10.038.0 chain with connection set 050.10.12.A1.
+You will need to modify this for different drag chains.
+* 4x M3 Brass heatstake inserts - short M3x5x4
+* 2x M3x6 BHCS screws to mount the wago holder onto the drag chain mount. Don't need to be black or fancy because they will be hidden anyway
+
+## Print instructions
 Both wago and drag chain mount are designed fit exactly on the arm. It won't fit Ventermechs or maybe other modifications you may have done.
 Please print in ABS to make sure it will withstand the heat of the bed. PETG may be sufficient but that is something you don't want to try.
 The Wago clamps are rated for 85°C environment temperature and 105°C permanent usage temperature so these won't fail.
 Print without supports and you won't need much infill.
+
+## License
 
 [![GPLv3 License][gpl-v3-shield]][gpl-v3]
 
@@ -25,6 +33,7 @@ This work is licensed under the
 [gpl-v3]: https://www.gnu.org/licenses/gpl-3.0.txt
 [gpl-v3-shield]: https://img.shields.io/badge/License-GPLv3-lightgrey.svg
 
+## Images 
 ![CAD Front View](./images/cad_frontview.png "CAD Front View")
 ![CAD Side View](./images/cad_sideview.png "CAD Side View")
 ![CAD Side View 2](./images/cad_sideview2.png "CAD Side View 2")
