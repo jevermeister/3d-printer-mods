@@ -4,6 +4,8 @@ Based on the Voron V2 / 2020 mounts by Boingomw which you can find at https://gi
 2x M3x6 SHCS and a M3 nut were sufficient for me.
 I ordered Wago Ex instead of the regular Wagos because they're white. And they're more useful in case you printer tends to explode.
 
+Unfortunately none of the creators added a license however as they were in VoronUsers I took GPLv3.
+
 ![Installed Version](./images/printed.jpg "Installed version")
 
 ![CAD View](./images/cad.png "CAD view")
