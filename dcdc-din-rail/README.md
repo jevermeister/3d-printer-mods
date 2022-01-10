@@ -1,4 +1,4 @@
-# DC-DC 24V/12V to 5V converter din rail mount
+# TOBSUN DC-DC 24V/12V to 5V converter din rail mount
 Based on the2 channel relay mount which you can find at https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ByteChild/2_Channel_Relay_DIN_Rail_Bracket
 I also added the Voron 2 DIN rail clip which is needed for your convenience which you can find at https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/DIN_Brackets/pcb_din_clip_x3.stl 
 
