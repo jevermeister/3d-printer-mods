@@ -7,4 +7,12 @@ You will need 2x M2x10 self-tapping screws to attach the mount to the pcb din cl
 
 I don't have a good photo yet, will add that ASAP.
 
+[![GPLv3 License][gpl-v3-shield]][gpl-v3]
+
+This work is licensed under the
+[GPLv3 License][gpl-v3] license.
+
+[gpl-v3]: https://www.gnu.org/licenses/gpl-3.0.txt
+[gpl-v3-shield]: https://img.shields.io/badge/License-GPLv3-lightgrey.svg
+
 ![CAD View](./images/cad.png "CAD view")

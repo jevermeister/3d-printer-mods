@@ -8,6 +8,14 @@ Initially I printed them in PETG and it worked fine for 100h of printing. Then I
 
 Unfortunately none of the creators added a license however as they were in VoronUsers I took GPLv3.
 
+[![GPLv3 License][gpl-v3-shield]][gpl-v3]
+
+This work is licensed under the
+[GPLv3 License][gpl-v3] license.
+
+[gpl-v3]: https://www.gnu.org/licenses/gpl-3.0.txt
+[gpl-v3-shield]: https://img.shields.io/badge/License-GPLv3-lightgrey.svg
+
 ![Installed Version](./images/installed.jpg "Installed version")
 
 ![CAD View](./images/cad.png "CAD view")
