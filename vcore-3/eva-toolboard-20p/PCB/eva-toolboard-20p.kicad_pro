@@ -380,7 +380,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "C:/Program Files/KiCad/6.0/",
       "specctra_dsn": "",
       "step": "eva-toolboard-20p.step",
       "vrml": ""
