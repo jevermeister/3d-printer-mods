@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J0,Toolhead connector,Molex_Micro-Fit_3.0_43045-0412_2x02_P3.00mm_Vertical,176.0,-106.07,180.0,top
+J1,L,CONN-TH_2P-P5.08_796949-2,165.716999,-113.46,90.0,bottom
+J2,R,CONN-TH_2P-P5.08_796949-2,186.25,-113.46,270.0,bottom

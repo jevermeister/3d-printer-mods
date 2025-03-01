@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC,Quantity
+Toolhead connector,J0,Molex_Micro-Fit_3.0_43045-0412_2x02_P3.00mm_Vertical,,1
+R,J2,CONN-TH_2P-P5.08_796949-2,,1
+L,J1,CONN-TH_2P-P5.08_796949-2,,1
